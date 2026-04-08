@@ -8,7 +8,6 @@ My experience includes working with datasets, Python, Java, C++ and Arcgis along
 My coursework and projects at UW Bothell have given me strong experience interpreting public datasets, including Census
 and ACS data, and transforming them into clear, accessible stories for non technical audiences. Through PolicyMap, 
 I have created renter cost burden maps for King County Census Tracts, analyzed trends in housing and demographic inequities, and written explanations that connect these patterns to real community issues such as affordability, environmental exposures, and transportation access. 
-These projects supported my ability to translate complex data into something the community can understand, with those skills directly relevant to District 3’s newsletters, public opinion analysis, and communication materials.
 In addition to my data experience, I bring strong communication and community engagement skills from my role as a lead coding instructor for Techno Smart Kids. I lead classes across BSD, ISD, and LWSD, where I break down complicated technical concepts for young learners, adjust lessons for different kids, and collaborate with school staff to support program success. This work has taught me how to communicate clearly, meet people where they are, and create welcoming learning environments in which qualities that translate well to public communication, interaction, and engagement.
 
 *From one of my cover letters for an internship
